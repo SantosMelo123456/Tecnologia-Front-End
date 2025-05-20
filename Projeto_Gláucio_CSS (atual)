@@ -1,0 +1,143 @@
+body{
+    background-color: #EBEBEB;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#topo{
+    background-color: #21272B;
+    position: relative;
+    display: inline-block;
+    position: relative;
+    padding-left: 15px;
+    padding-top: 10px;
+    width: 98.5%;
+    height: 100%;
+}
+
+h1, h2, h3, h4, p{
+    display: inline-block;
+    font-style: italic;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#aluguel{
+    position: relative;
+    color: #FFFFFF;
+    right: 50px;
+    font-size: 27px;
+}
+
+#luxo{
+    color: #1BB4E8;
+    position: relative;
+    font-size: 27px;
+    bottom: 28px;
+}
+nav{
+    position: relative;
+    display: inline-block;
+    left: 20px;
+    color: #FFFFFF;
+}
+
+ul{
+    list-style: none;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    right: 20px;
+}
+
+li{
+    display: inline-block;
+    margin-right: 20px;
+    color: #FFFFFF;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: #1BB4E8;
+}
+#quadro {
+    position: relative;
+    display: inline-block;
+    background-size: cover;
+
+}
+   
+
+
+#select{
+    position: absolute;
+    background-color: #1a3243;
+    display: inline-block;
+    padding: 15px;
+    opacity: 0.9;
+    right: 70px;
+    top: 230px;
+}
+    
+
+
+#select3{
+    position: relative;
+    right: 150px;
+    
+}
+
+.white{
+    color:#FFFFFF;
+   
+}
+.brown{
+    color: #C6B07F;
+}
+#quadro_azul{
+    background-color: #1BB4E8;
+}
+
+#quadro_marrom{
+    background-color: #C6B07F;
+
+}
+
+#destino{
+    width: 415px;
+    
+}
+
+#frota{
+    width: 415px;
+    
+}
+
+#texto{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#bc_img{
+    display: flex;
+    flex-wrap: wrap;
+
+    
+}
+
+#img_destino{
+    position: relative;
+    top: 12px;
+    left: 5px;
+}
